@@ -139,7 +139,7 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
 ## Documentacion Google Cloud Platform
 xxxxxxx
 
-Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://github.com/xxxx) 
+Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://xxxx) 
 
 ## Diccionario de datos 
 xxxxxx
@@ -149,10 +149,10 @@ Para ver el diccionario de datos  puede dirigirse al siguente enlace [Diccionari
 ## Esquema ER (Entidad-Relación) 
 xxxxx
 
-Para ver el esquema ER (Entidad-Relación)  puede dirigirse al siguente enlace [Esquema ER](https://github.com/xxxxx) 
+Para ver el esquema ER (Entidad-Relación)  puede dirigirse al siguente enlace [Esquema ER](https://xxxxx) 
 
 <p align="center">
-  <img src="https://github.com/xxxx">
+  <img src="https://xxxx">
 </p>  
 
 
