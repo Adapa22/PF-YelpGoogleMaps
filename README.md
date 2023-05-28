@@ -136,8 +136,7 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
   <img src="https://xxxx">
 </p>
 
-## Documentacion Google Cloud Platform
-xxxxxxx
+## Documentacion
 
 Para ver la documentación puede dirigirse al siguente enlace [Informe de proyecto](https://xxxx) 
 
