@@ -119,7 +119,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 El proyecto se realizó con la metodología Dynamic Systems Development Method (DSDM). Es una metodología que permite la agilidad mientras se mantiene el enfoque en los requisitos empresariales. Mediante este, se asignarán actividades individuales mientras se fomenta la comunicación para la resolución de problemas y se actualiza nuestro diagrama de Gantt para dar seguimiento al avance continuo del proyecto
 
 <p align="center">
-  <img src="[https://xxxx](https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/metodologia.jpg)">
+  <img src="(https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/metodologia.jpg)">
 </p>
 
 ### Stack tecnológico
