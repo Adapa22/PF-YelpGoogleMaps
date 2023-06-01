@@ -131,7 +131,7 @@ Desarrollar un sistema de recomendación que recoge las reseñas hechas de un us
 
 ### Metodología de trabajo
 
-El proyecto se realizó con la metodología Dynamic Systems Development Method (DSDM). Es una metodología que permite la agilidad mientras se mantiene el enfoque en los requisitos empresariales. Mediante este, se asignarán actividades individuales mientras se fomenta la comunicación para la resolución de problemas y se actualiza nuestro diagrama de Gantt para dar seguimiento al avance continuo del proyecto
+Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
 
 <p align="center">
   <img src="https://xxxx">
