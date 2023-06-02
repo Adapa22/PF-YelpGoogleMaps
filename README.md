@@ -163,6 +163,7 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Fuente de información: Yelp, Google Maps.
 
 ### Stack tecnológico
+
 + Github: Alojamiento de nuestro repositorio.
 + Notion: Organización de tareas.
 + Visual Studio Code: Software para trabajar de forma local en el proyecto.
@@ -212,17 +213,9 @@ Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada
 ### Performance del modelo
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
-<p align="center">
-  <img src="https://xxxx">
-</p>
-
 ## Cronología general
 ### Diagrama de Gantt
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
-
-<p align="center">
-  <img src="https://xxxx">
-</p>
 
 
 
