@@ -110,7 +110,6 @@ Se implementará un sistema de recomendación basado en los gustos previos de lo
 Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado.
 
 <br>
-<br>
 
 $$
 \frac{Negocios por Rubro}{Total de Negocios} *100
@@ -137,6 +136,16 @@ Promedia el número de fans que tienen las personas que escribieron reseñas del
 
 + **Tasa mensual de respuesta del negocio:**
  Calcula el porcentaje de reseñas que el restaurante respondió
+ 
+ 
+<br>
+
+$$
+\frac{Cantidad de Respuestas}{Cantidad de Comentarios} *100
+$$
+
+<br>
+
 
 
 <p align="center">
