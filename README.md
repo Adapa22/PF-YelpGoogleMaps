@@ -100,6 +100,23 @@ Se realizará un análisis de los negocios más exitosos en cada zona selecciona
 
 Se implementará un sistema de recomendación basado en los gustos previos de los usuarios. Esto se logrará a través de la recopilación de datos sobre las preferencias gastronómicas y turísticas de los clientes, y el uso de algoritmos de recomendación inteligente. Este sistema permitirá ofrecer recomendaciones personalizadas a los usuarios, mejorando su experiencia y fomentando la fidelización.
 
+### KPIs
+
++ **KPI1**:
+
++ **KPI2**:
+
++ **KPI3**: 
+
++ **KPI4**:
+
++ **KPI5**
+
+
+<p align="center">
+  <img src="https://xxxx">
+</p>
+
 
 ### Alcance
 
@@ -159,25 +176,6 @@ Las posibles limitaciones del proyecto podrían incluir:
 + Todo área geográfica fuera de Estados Unidos
 
 Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada durante la ejecución del proyecto. Se deben establecer estrategias de mitigación de riesgos y se debe tener flexibilidad para adaptarse a posibles cambios y desafíos que puedan surgir durante el proceso.
-
-
-### KPIs
-
-+ **KPI1**:
-
-+ **KPI2**:
-
-+ **KPI3**: 
-
-+ **KPI4**:
-
-+ **KPI5**
-
-
-<p align="center">
-  <img src="https://xxxx">
-</p>
-
 
 ### Performance del modelo
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
