@@ -111,6 +111,7 @@ Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferent
 
 <br>
 <br>
+
 $$
 \frac{Negocios por Rubro}{Total de Negocios} *100
 $$
