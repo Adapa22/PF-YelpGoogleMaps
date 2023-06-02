@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Sin título-1_Mesa de trabajo 1 copia 6.png">
+  <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/portada.PNG">
 </p>
 
 <!-- TABLA DE CONTENIDO -->
