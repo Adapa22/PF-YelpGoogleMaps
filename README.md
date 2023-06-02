@@ -22,19 +22,14 @@
       <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
       <ul>
         <li><a href="#Objetivos">Objetivos</a></li>
-        <li><a href="#Alcance">Alcance</a></li>
-        <li><a href="#Limitaciones">Limitaciones</a></li>
-        <li><a href="#kpis">KPIs</a></li>
-        <li><a href="#performance-del-modelo">Performance del modelo</a></li>
         <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
+        <li><a href="#kpis">KPIs</a></li>
+        <li><a href="#Alcance">Alcance</a></li>
         <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
+        <li><a href="#Posibilidades-de-continuidad-del-proyecto">Posibilidades de continuidad del proyecto</a></li> 
+        <li><a href="#Limitaciones">Limitaciones</a></li>
+        <li><a href="#performance-del-modelo">Performance del modelo</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#Informe-de-proyecto">Informe de proyecto</a>
-    </li>
-    <li>
-      <a href="#Presentacion-interactiva">Presentación interactiva</a>
     </li>
     <li>
       <a href="#Cronología-general">Cronología general</a>
@@ -42,6 +37,13 @@
         <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
       </ul>
     </li>
+     <li>
+      <a href="#Entregable">Entregable</a>
+      <ul>
+        <li><a href="#Semana-1">Semana 1</a></li>
+        <li><a href="#Semana-2">Semana 2</a></li>
+        <li><a href="#Semana-3">Semana 3</a></li>
+        <li><a href="#Semana-4">Semana 4</a></li>
   </ol>
 </details>
 
@@ -80,6 +82,18 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de Estados Unido
 4. Hawái
 5. Nevada
 
+
+## Propuesta de proyecto
+Para lograr los objetivos planteados, se deberá realizar un análisis exhaustivo del mercado turístico y gastronómico en Estados Unidos, identificando lugares con alto potencial de atractivo y demanda. 
+
+Realizar un estudio detallado de la competencia en el mercado turístico y gastronómico en los lugares seleccionados. Basado en el análisis del mercado y la competencia, se elaborarán directrices de marketing para los nuevos negocios turísticos y gastronómicos. Estas directrices incluirán estrategias de posicionamiento, segmentación de mercado, canales de promoción, branding y comunicación efectiva para atraer y fidelizar a los clientes. 
+
+Se llevará a cabo un estudio exhaustivo de las tendencias actuales en la industria de restaurantes. Se identificarán las preferencias de los consumidores. Este análisis permitirá adaptar los conceptos y menús de los nuevos negocios a las tendencias emergentes.
+
+Se realizará un análisis de los negocios más exitosos en cada zona seleccionada. Se examinarán aspectos como la calidad de los productos y servicios. Estos casos de éxito servirán como referencia para identificar las mejores prácticas y aplicarlas en los nuevos negocios.
+
+Se implementará un sistema de recomendación basado en los gustos previos de los usuarios. Esto se logrará a través de la recopilación de datos sobre las preferencias gastronómicas y turísticas de los clientes, y el uso de algoritmos de recomendación inteligente. Este sistema permitirá ofrecer recomendaciones personalizadas a los usuarios, mejorando su experiencia y fomentando la fidelización.
+
 ### Objetivos
 
 - Seleccionar los lugares de Estados Unidos mas atractivos para invertir en nuevos negocios turísticos y/o gastronómicos.
@@ -92,17 +106,6 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de Estados Unido
 ### Metodología de trabajo
 
 Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
-
-## Propuesta de proyecto
-Para lograr los objetivos planteados, se deberá realizar un análisis exhaustivo del mercado turístico y gastronómico en Estados Unidos, identificando lugares con alto potencial de atractivo y demanda. 
-
-Realizar un estudio detallado de la competencia en el mercado turístico y gastronómico en los lugares seleccionados. Basado en el análisis del mercado y la competencia, se elaborarán directrices de marketing para los nuevos negocios turísticos y gastronómicos. Estas directrices incluirán estrategias de posicionamiento, segmentación de mercado, canales de promoción, branding y comunicación efectiva para atraer y fidelizar a los clientes. 
-
-Se llevará a cabo un estudio exhaustivo de las tendencias actuales en la industria de restaurantes. Se identificarán las preferencias de los consumidores. Este análisis permitirá adaptar los conceptos y menús de los nuevos negocios a las tendencias emergentes.
-
-Se realizará un análisis de los negocios más exitosos en cada zona seleccionada. Se examinarán aspectos como la calidad de los productos y servicios. Estos casos de éxito servirán como referencia para identificar las mejores prácticas y aplicarlas en los nuevos negocios.
-
-Se implementará un sistema de recomendación basado en los gustos previos de los usuarios. Esto se logrará a través de la recopilación de datos sobre las preferencias gastronómicas y turísticas de los clientes, y el uso de algoritmos de recomendación inteligente. Este sistema permitirá ofrecer recomendaciones personalizadas a los usuarios, mejorando su experiencia y fomentando la fidelización.
 
 ### KPIs
 
@@ -186,7 +189,7 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
 + Scikit-learn: Libreria de aprendizaje automático de código abierto para el lenguaje de programación Python
 
-### Posibilidades de continuidad del proyecto:
+### Posibilidades de continuidad del proyecto
 
 Dado que el alcance actual del proyecto se centra en la identificación de rubros con mayor margen de retorno de inversión dentro del sector turístico, de ocio y esparcimiento, existen posibilidades de continuidad del proyecto para abordar aspectos adicionales que puedan estar fuera del alcance actual, como:
 
@@ -214,12 +217,6 @@ Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada
 
 ### Performance del modelo
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
-
-<p align="center">
-  <img src="https://xxxx">
-</p>
-
-### Stack tecnológico
 
 <p align="center">
   <img src="https://xxxx">
