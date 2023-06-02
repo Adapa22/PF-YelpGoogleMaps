@@ -182,6 +182,7 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
 + Scikit-learn: Libreria de aprendizaje automático de código abierto para el lenguaje de programación Python
 
+
 ### Posibilidades de continuidad del proyecto
 
 Dado que el alcance actual del proyecto se centra en la identificación de rubros con mayor margen de retorno de inversión dentro del sector turístico, de ocio y esparcimiento, existen posibilidades de continuidad del proyecto para abordar aspectos adicionales que puedan estar fuera del alcance actual, como:
