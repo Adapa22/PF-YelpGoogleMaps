@@ -94,7 +94,7 @@ Para abordar esta situación, es crucial realizar un análisis detallado, consul
 - Indagar a la competencia del mercado turístico y gastronómico.
 - Proponer directrices para elaborar sus estrategias de marketing.
 - Analizar las tendencias del rubro de restaurantes.
-- Evaluar cuáles son las características de los negocios mas exitosos en cada zona. 
+- Evaluar las características de los negocios mas exitosos en cada zona. 
 - Desarrollar un sistema de recomendación basado en los gustos previos de los usuarios.
 
 ### Alcance
