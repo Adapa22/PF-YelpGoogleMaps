@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Entendimiento-de-la-problemática">Entendimiento de la problemática</a>
+      <a href="#Entendimiento-de-la-problemática-de-la-situación-actual">Entendimiento de la problemática de la situación actual</a>
     </li>
     <li>
       <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
@@ -62,13 +62,12 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 + [Keily Lasso](https://github.com/valen-l) - Data Engineer
 + [Oriana Madriz](https://github.com/OrianaMadriz) - Data Scientist
 
-## Entendimiento de la Situación Actual
+## Entendimiento de la problemática de la situación actual
 
 El grupo inversor tiene como objetivo principal obtener el mayor rendimiento de ganancias posible a través de la inversión de su capital en el sector turístico, de ocio y esparcimiento. Sin embargo, enfrentan la dificultad de desconocer a ciencia cierta el rubro específico que ofrece el mayor margen de retorno de la inversión.
 
 La falta de información precisa sobre el rubro con mayor margen de retorno dificulta la toma de decisiones de inversión. Esto puede llevar a riesgos innecesarios o a una asignación ineficiente de los recursos disponibles.
 
-## Entendimiento de la problemática
 "Análisis y Sistema de recomendación de restaurantes basado en opiniones de los usuarios de Yelp y Google Maps en Estados Unidos"
 
 La problemática se centra en la recopilación, procesamiento y análisis de datos de los estados con mayor atractivo turístico de los US para comprender la opinión de los usuarios, predecir tendencias de crecimiento o declive en el mercado de restaurantes, seleccionar ubicaciones estratégicas y desarrollar un sistema de recomendación personalizado para los usuarios.
