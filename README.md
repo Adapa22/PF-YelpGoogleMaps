@@ -89,6 +89,10 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de Estados Unido
 - Evaluar las características de los negocios mas exitosos en cada zona. 
 - Desarrollar un sistema de recomendación basado en los gustos previos de los usuarios.
 
+### Metodología de trabajo
+
+Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
+
 ## Propuesta de proyecto
 Para lograr los objetivos planteados, se deberá realizar un análisis exhaustivo del mercado turístico y gastronómico en Estados Unidos, identificando lugares con alto potencial de atractivo y demanda. 
 
@@ -180,10 +184,6 @@ Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada
 ### Performance del modelo
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
-### Metodología de trabajo
-
-Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
-
 <p align="center">
   <img src="https://xxxx">
 </p>
@@ -201,6 +201,32 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
 <p align="center">
   <img src="https://xxxx">
 </p>
+
+## Productos finales
+### Semana 1: 
++ Diagrama de Gantt
++ Metadatos
++ Análisis preliminar de calidad de datos
++ KPIs planteados
+
+### Semana 2:
++ Diagrama entidad-relación
++ Pipelines para alimentar el DW
++ Data Warehouse
++ Automatización
++ Diccionario de datos
++ Workflow
++ Pipeline ETL automatizado
+
+### Semana 3:
++ Dashboards
++ KPIs
++ Modelo ML
++ Informe de análisis
+
+### Semana 4:
++ Demo
+
 
 
 
