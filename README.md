@@ -71,6 +71,10 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de Estados Unido
 4. Hawái
 5. Nevada
 
+ <p align="center">
+  <img src="https://i.ibb.co/M1FFfGT/planteamiento.png">
+</p>
+
 
 ## Propuesta de proyecto
 Para lograr los objetivos planteados, se deberá realizar un análisis exhaustivo del mercado turístico y gastronómico en Estados Unidos, identificando lugares con alto potencial de atractivo y demanda. 
@@ -141,13 +145,6 @@ $$
 $$
 
 <br>
-
-
-
-<p align="center">
-  <img src="https://xxxx">
-</p>
-
 
 ### Alcance
 
