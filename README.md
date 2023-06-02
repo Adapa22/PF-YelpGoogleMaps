@@ -107,7 +107,7 @@ Se implementará un sistema de recomendación basado en los gustos previos de lo
 ### KPIs
 
 + **Tasa anual de crecimiento por rubro:**:
-Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado.
+Mide el crecimiento o decrecimiento de la cantidad de negocios entre los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado. Se obtiene tras dividir la cantidad de negocios por rubro por la cantidad de negocios totales.
 
 <br>
 
@@ -118,7 +118,7 @@ $$
 <br>
 
 + **Calidad percibida mensual del servicio por rubro (CPR)**:
-Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio por rubro de servicio
+Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio segun calidad por rubro de servicio
 
 + **Puntaje promedio mensual de acuerdo a categorías**: 
 Se obtiene tres métricas de importancia para el cliente y por medio de minería de texto se extraen palabras clave de las reseñas, por ejemplo, al cliente le interesa saber la puntuación de los criterios. Es útil para estudiar a detalle el rendimiento de un negocio y encontrar puntos fuertes y oportunidad de mejora.
