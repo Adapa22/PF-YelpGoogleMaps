@@ -106,15 +106,28 @@ Se implementará un sistema de recomendación basado en los gustos previos de lo
 
 ### KPIs
 
-+ **KPI1**:
++ **Tasa anual de crecimiento por rubro:**:
+Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado.
 
-+ **KPI2**:
++ **Calidad percibida mensual del servicio por rubro (CPR)**:
+Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio por rubro de servicio
 
-+ **KPI3**: 
++ **Puntaje promedio mensual de acuerdo a categorías**: 
+Se obtiene tres métricas de importancia para el cliente y por medio de minería de texto se extraen palabras clave de las reseñas, por ejemplo, al cliente le interesa saber la puntuación de los criterios. Es útil para estudiar a detalle el rendimiento de un negocio y encontrar puntos fuertes y oportunidad de mejora.
 
-+ **KPI4**:
+1. Atención (attention, service, fast, waitress, waiter, gentle, help, nice, person, etc.)
 
-+ **KPI5**
+2. Valoración de la comida (beef, chicken, burger, delicious, superb, food, tasty, taste, flavour, meat, hamburger, yummy, etc.)
+
+3. Valoración del local (Sight, place, street, seat, table, ambient, clean, dirty, filthy, beautiful, etc.)
+
+Una vez segmentadas las reseñas de acuerdo a los objetivos, se promedia el puntaje de las mismas para calificar estos aspectos del restaurante.
+
++ **Impacto potencial promedio de los reviewers**:  
+Promedia el número de fans que tienen las personas que escribieron reseñas del negocio en Yelp. Es útil para establecer objetivos de marketing y el desarrollo de campañas de comunicación.
+
++ **Tasa mensual de respuesta del negocio:**
+ Calcula el porcentaje de reseñas que el restaurante respondió
 
 
 <p align="center">
@@ -202,7 +215,7 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
   <img src="https://xxxx">
 </p>
 
-## Productos finales
+## Entregable
 ### Semana 1: 
 + Diagrama de Gantt
 + Metadatos
