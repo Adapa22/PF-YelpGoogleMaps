@@ -149,22 +149,17 @@ Estas posibilidades de continuidad del proyecto pueden ser evaluadas y considera
 
 Las posibles limitaciones del proyecto podrían incluir:
 
-1. Disponibilidad de datos: La disponibilidad y accesibilidad de datos confiables y actualizados sobre el sector turístico, de ocio y esparcimiento podría ser limitada. Esto podría dificultar el análisis exhaustivo y preciso del mercado y la competencia.
-
-2. Incertidumbre en el rendimiento de inversión: Aunque se realicen análisis y evaluaciones cuidadosas, no se puede garantizar con certeza el rendimiento de inversión en el rubro identificado como más prometedor. Factores externos, como cambios económicos, fluctuaciones del mercado y eventos imprevistos, pueden afectar los resultados esperados.
-
-3. Complejidad de la competencia: La competencia en el sector turístico y de ocio puede ser intensa y diversa. Identificar y evaluar a todos los competidores relevantes puede ser un desafío, especialmente considerando la presencia de actores locales y regionales.
-
-4. Aspectos legales y regulatorios: Las regulaciones gubernamentales y los requisitos legales relacionados con el sector turístico pueden variar según la ubicación geográfica y estar sujetos a cambios. Esto podría influir en las estrategias de inversión propuestas y requerir un seguimiento continuo de las actualizaciones regulatorias.
-
-5. Factores externos impredecibles: El éxito de los negocios turísticos y de ocio también puede verse afectado por factores externos impredecibles, como desastres naturales, crisis económicas o pandemias. Estos eventos pueden impactar negativamente la demanda del mercado y generar incertidumbre en cuanto a la rentabilidad de la inversión.
-
-6. Limitaciones de recursos y tiempo: Los recursos financieros, humanos y de tiempo asignados al proyecto pueden ser limitados. Esto puede influir en la cantidad de subsectores que se pueden evaluar en profundidad y en la extensión de los análisis realizados.
++ Disponibilidad de datos: La disponibilidad y accesibilidad de datos confiables y actualizados sobre el sector turístico, de ocio y esparcimiento podría ser limitada. Esto podría dificultar el análisis exhaustivo y preciso del mercado y la competencia.
++ Incertidumbre en el rendimiento de inversión: Aunque se realicen análisis y evaluaciones cuidadosas, no se puede garantizar con certeza el rendimiento de inversión en el rubro identificado como más prometedor. Factores externos, como cambios económicos, fluctuaciones del mercado y eventos imprevistos, pueden afectar los resultados esperados.
++ Complejidad de la competencia: La competencia en el sector turístico y de ocio puede ser intensa y diversa. Identificar y evaluar a todos los competidores relevantes puede ser un desafío, especialmente considerando la presencia de actores locales y regionales.
++ Aspectos legales y regulatorios: Las regulaciones gubernamentales y los requisitos legales relacionados con el sector turístico pueden variar según la ubicación geográfica y estar sujetos a cambios. Esto podría influir en las estrategias de inversión propuestas y requerir un seguimiento continuo de las actualizaciones regulatorias.
++ Factores externos impredecibles: El éxito de los negocios turísticos y de ocio también puede verse afectado por factores externos impredecibles, como desastres naturales, crisis económicas o pandemias. Estos eventos pueden impactar negativamente la demanda del mercado y generar incertidumbre en cuanto a la rentabilidad de la inversión.
++ Limitaciones de recursos y tiempo: Los recursos financieros, humanos y de tiempo asignados al proyecto pueden ser limitados. Esto puede influir en la cantidad de subsectores que se pueden evaluar en profundidad y en la extensión de los análisis realizados.
++ Barreras tecnológicas 
++ Todo área geográfica fuera de Estados Unidos
 
 Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada durante la ejecución del proyecto. Se deben establecer estrategias de mitigación de riesgos y se debe tener flexibilidad para adaptarse a posibles cambios y desafíos que puedan surgir durante el proceso.
 
-+ Barreras tecnológicas 
-+ Todo área geográfica fuera de Estados Unidos
 
 ### KPIs
 
