@@ -80,13 +80,6 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de Estados Unido
 4. Hawái
 5. Nevada
 
-
-## Propuesta de proyecto
-El sector turístico, de ocio y esparcimiento se caracteriza por su diversidad y variedad de oportunidades de inversión. Comprende subsectores como hoteles, restaurantes y más. Es necesario evaluar cada uno de estos subsectores para determinar cuál ofrece el mayor potencial de rentabilidad.
-
-Para abordar esta situación, es crucial realizar un análisis detallado, consultar a expertos y tomar decisiones estratégicas fundamentadas que permitan maximizar las ganancias en la inversión realizada. En Datacket trabajaremos en estrecha colaboración con el grupo inversor y los expertos involucrados para alcanzar los objetivos establecidos.
-
-
 ### Objetivos
 
 - Seleccionar los lugares de Estados Unidos mas atractivos para invertir en nuevos negocios turísticos y/o gastronómicos.
@@ -96,12 +89,57 @@ Para abordar esta situación, es crucial realizar un análisis detallado, consul
 - Evaluar las características de los negocios mas exitosos en cada zona. 
 - Desarrollar un sistema de recomendación basado en los gustos previos de los usuarios.
 
+## Propuesta de proyecto
+Para lograr los objetivos planteados, se deberá realizar un análisis exhaustivo del mercado turístico y gastronómico en Estados Unidos, identificando lugares con alto potencial de atractivo y demanda. 
+
+Realizar un estudio detallado de la competencia en el mercado turístico y gastronómico en los lugares seleccionados. Basado en el análisis del mercado y la competencia, se elaborarán directrices de marketing para los nuevos negocios turísticos y gastronómicos. Estas directrices incluirán estrategias de posicionamiento, segmentación de mercado, canales de promoción, branding y comunicación efectiva para atraer y fidelizar a los clientes. 
+
+Se llevará a cabo un estudio exhaustivo de las tendencias actuales en la industria de restaurantes. Se identificarán las preferencias de los consumidores. Este análisis permitirá adaptar los conceptos y menús de los nuevos negocios a las tendencias emergentes.
+
+Se realizará un análisis de los negocios más exitosos en cada zona seleccionada. Se examinarán aspectos como la calidad de los productos y servicios. Estos casos de éxito servirán como referencia para identificar las mejores prácticas y aplicarlas en los nuevos negocios.
+
+Se implementará un sistema de recomendación basado en los gustos previos de los usuarios. Esto se logrará a través de la recopilación de datos sobre las preferencias gastronómicas y turísticas de los clientes, y el uso de algoritmos de recomendación inteligente. Este sistema permitirá ofrecer recomendaciones personalizadas a los usuarios, mejorando su experiencia y fomentando la fidelización.
+
+
 ### Alcance
+
+El proyecto está dirigido al grupo inversor que busca identificar el rubro con el mayor margen de retorno de inversión dentro del sector turístico, de ocio y esparcimiento. El grupo inversor es el destinatario principal de las actividades y entregables del proyecto, ya que son ellos quienes desean tomar decisiones basadas en datos y bien analizadas estratégicamente para maximizar las ganancias de su inversión.
+
+Además, el informe de recomendaciones generado como resultado del proyecto también puede ser de interés para otros actores involucrados en la industria turística, como consultores de inversión, profesionales de la industria, instituciones financieras y empresas relacionadas. Estos actores podrían utilizar el informe como referencia para comprender las oportunidades de inversión en el sector y tomar decisiones comerciales basadas en los hallazgos y recomendaciones presentados.
+
+
 
 + Negocio objetivo: locales turisticos, locales de ocio y/o locales gastronómicos
 + Área geográfica: Estados Unidos
 + Periodo de información: 2010-2021
-+ Fuente de información: Yelp, Google Maps
++ Fuente de información: Yelp, Google Maps.
+
+
+
+### Stack tecnológico
+Github: Alojamiento de nuestro repositorio.
+Notion: Organización de tareas.
+Visual Studio Code: Software para trabajar de forma local en el proyecto.
+Google Colab: Servicio de Google para trabajar de forma colaborativa y en la nube.
+Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
+Google Cloud Storage: Servicio Cloud de almacenamiento.
+Google Cloud Function: Servicio sin servidor para ejecutar código en respuesta a eventos.
+Google Cloud Scheduler: Servicio para programar tareas en la nube.
+Google Big Query: Servicio para hacer análisis de datos de gran escala en la nube.
+Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
+Places API: API de Google que permite acceder a información detallada sobre lugares y establecimientos
+Geocoding API: API de Google que permite convertir direcciones en coordenadas geográficas y viceversa.
+Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
+Python: Lenguaje de programación usado para ciencia de datos.
+Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
+Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
+Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
+Gradio: Libreria para construir interfaces de usuario de modelos de aprendizaje automático.
+Plotly: Libreria para visualización de datos interactiva y gráficos estadísticos.
+
+
+
+
 
 ### Limitaciones
 + Barreras tecnológicas 
