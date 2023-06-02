@@ -109,6 +109,14 @@ Se implementará un sistema de recomendación basado en los gustos previos de lo
 + **Tasa anual de crecimiento por rubro:**:
 Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado.
 
+<br>
+<br>
+$$
+\frac{Negocios por Rubro}{Total de Negocios} *100
+$$
+
+<br>
+
 + **Calidad percibida mensual del servicio por rubro (CPR)**:
 Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio por rubro de servicio
 
