@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Entendimiento-de-la-problemática-de-la-situación-actual">Entendimiento de la problemática de la situación actual</a>
+      <a href="#Planteamiento-del-problema">Planteamiento del problema</a>
     </li>
     <li>
       <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
@@ -36,14 +36,7 @@
       <ul>
         <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
       </ul>
-    </li>
-     <li>
-      <a href="#Entregable">Entregable</a>
-      <ul>
-        <li><a href="#Semana-1">Semana 1</a></li>
-        <li><a href="#Semana-2">Semana 2</a></li>
-        <li><a href="#Semana-3">Semana 3</a></li>
-        <li><a href="#Semana-4">Semana 4</a></li>
+    </li>     
   </ol>
 </details>
 
@@ -64,11 +57,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 + [Keily Lasso](https://github.com/valen-l) - Data Engineer
 + [Oriana Madriz](https://github.com/OrianaMadriz) - Data Scientist
 
-## Entendimiento de la problemática de la situación actual
-
-El grupo inversor tiene como objetivo principal obtener el mayor rendimiento de ganancias posible a través de la inversión de su capital en el sector turístico, de ocio y esparcimiento. Sin embargo, enfrentan la dificultad de desconocer a ciencia cierta el rubro específico que ofrece el mayor margen de retorno de la inversión.
-
-La falta de información precisa sobre el rubro con mayor margen de retorno dificulta la toma de decisiones de inversión. Esto puede llevar a riesgos innecesarios o a una asignación ineficiente de los recursos disponibles.
+## Planteamiento del problema
 
 "Análisis y Sistema de recomendación de restaurantes basado en opiniones de los usuarios de Yelp y Google Maps en Estados Unidos"
 
@@ -234,30 +223,6 @@ Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualiz
   <img src="https://xxxx">
 </p>
 
-## Entregable
-### Semana 1: 
-+ Diagrama de Gantt
-+ Metadatos
-+ Análisis preliminar de calidad de datos
-+ KPIs planteados
-
-### Semana 2:
-+ Diagrama entidad-relación
-+ Pipelines para alimentar el DW
-+ Data Warehouse
-+ Automatización
-+ Diccionario de datos
-+ Workflow
-+ Pipeline ETL automatizado
-
-### Semana 3:
-+ Dashboards
-+ KPIs
-+ Modelo ML
-+ Informe de análisis
-
-### Semana 4:
-+ Demo
 
 
 
