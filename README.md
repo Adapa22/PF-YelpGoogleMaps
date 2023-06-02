@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com">
+  <img src="Sin título-1_Mesa de trabajo 1 copia 6.png">
 </p>
 
 <!-- TABLA DE CONTENIDO -->
