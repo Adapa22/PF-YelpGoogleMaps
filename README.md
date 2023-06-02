@@ -132,6 +132,7 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
 + Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
 + Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
++ Scikit-learn: Libreria de aprendizaje automático de código abierto para el lenguaje de programación Python
 
 ### Posibilidades de continuidad del proyecto:
 
