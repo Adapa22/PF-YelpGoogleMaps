@@ -78,7 +78,7 @@ Se seleccionaron los 5 estados con mayor flujo turístico anual de US:
 
 
 ## Propuesta de proyecto
-El proyecto comprende la necesidad que tiene el cliente de recibir la información que le permita evaluar la posibilidad de abrir una nueva cadena de restaurantes en los Estados Unidos. Por el carácter de la propuesta de negocio, el sector turístico es muy importante para este nuevo emprendimiento. El cliente necesita asesoría para:
+El proyecto comprende la necesidad que tiene el cliente de recibir la información que le permita evaluar la posibilidad de abrir una nueva cadena de restaurantes en los Estados Unidos. Por el carácter de la propuesta de negocio, el sector turístico es muy importante para este nuevo emprendimiento. 
 
 ### Objetivos
 
