@@ -107,6 +107,10 @@ Se implementará un sistema de recomendación basado en los gustos previos de lo
 
 Utilizamos Scrum como metodología de trabajo para trabajar de manera más eficiente y colaborativa, enfocados en la entrega de valor constante y adaptarnos a los cambios en los requisitos y objetivos del proyecto.
 
+  <p align="center">
+  <img src="metodologia.jpg">
+</p>
+  
 ### KPIs
 
 + **Tasa anual de crecimiento por rubro:**:
