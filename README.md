@@ -107,14 +107,12 @@ El proyecto está dirigido al grupo inversor que busca identificar el rubro con 
 
 Además, el informe de recomendaciones generado como resultado del proyecto también puede ser de interés para otros actores involucrados en la industria turística, como consultores de inversión, profesionales de la industria, instituciones financieras y empresas relacionadas. Estos actores podrían utilizar el informe como referencia para comprender las oportunidades de inversión en el sector y tomar decisiones comerciales basadas en los hallazgos y recomendaciones presentados.
 
-
+En general, el alcance del proyecto es ayudar al grupo inversor a identificar el rubro con mayor margen de retorno de inversión dentro del sector turístico, de ocio y esparcimiento. Para lograrlo, se llevarán a cabo actividades de análisis del sector, evaluación de subsectores clave, investigación de rubros prometedores, consulta a expertos en la industria, desarrollo de estrategias de inversión y presentación de un informe de recomendaciones. El objetivo final es proporcionar al grupo inversor la información necesaria para tomar decisiones informadas y estratégicas que maximicen el rendimiento de su inversión en el sector turístico.
 
 + Negocio objetivo: locales turisticos, locales de ocio y/o locales gastronómicos
 + Área geográfica: Estados Unidos
 + Periodo de información: 2010-2021
 + Fuente de información: Yelp, Google Maps.
-
-
 
 ### Stack tecnológico
 Github: Alojamiento de nuestro repositorio.
@@ -137,11 +135,35 @@ Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
 Gradio: Libreria para construir interfaces de usuario de modelos de aprendizaje automático.
 Plotly: Libreria para visualización de datos interactiva y gráficos estadísticos.
 
+### Posibilidades de continuidad del proyecto:
 
+Dado que el alcance actual del proyecto se centra en la identificación de rubros con mayor margen de retorno de inversión dentro del sector turístico, de ocio y esparcimiento, existen posibilidades de continuidad del proyecto para abordar aspectos adicionales que puedan estar fuera del alcance actual, como:
 
-
+Investigación más profunda de subsectores específicos.
+Análisis detallado de la competencia en rubros seleccionados.
+Desarrollo de estrategias de marketing específicas para cada rubro.
+Estudio de viabilidad financiera y análisis de riesgos más detallados.
+Implementación y seguimiento de las estrategias de inversión propuestas.
+Estas posibilidades de continuidad del proyecto pueden ser evaluadas y consideradas en futuras fases o etapas, una vez que se hayan completado los objetivos establecidos en el alcance actual.
 
 ### Limitaciones
+
+Las posibles limitaciones del proyecto podrían incluir:
+
+1. Disponibilidad de datos: La disponibilidad y accesibilidad de datos confiables y actualizados sobre el sector turístico, de ocio y esparcimiento podría ser limitada. Esto podría dificultar el análisis exhaustivo y preciso del mercado y la competencia.
+
+2. Incertidumbre en el rendimiento de inversión: Aunque se realicen análisis y evaluaciones cuidadosas, no se puede garantizar con certeza el rendimiento de inversión en el rubro identificado como más prometedor. Factores externos, como cambios económicos, fluctuaciones del mercado y eventos imprevistos, pueden afectar los resultados esperados.
+
+3. Complejidad de la competencia: La competencia en el sector turístico y de ocio puede ser intensa y diversa. Identificar y evaluar a todos los competidores relevantes puede ser un desafío, especialmente considerando la presencia de actores locales y regionales.
+
+4. Aspectos legales y regulatorios: Las regulaciones gubernamentales y los requisitos legales relacionados con el sector turístico pueden variar según la ubicación geográfica y estar sujetos a cambios. Esto podría influir en las estrategias de inversión propuestas y requerir un seguimiento continuo de las actualizaciones regulatorias.
+
+5. Factores externos impredecibles: El éxito de los negocios turísticos y de ocio también puede verse afectado por factores externos impredecibles, como desastres naturales, crisis económicas o pandemias. Estos eventos pueden impactar negativamente la demanda del mercado y generar incertidumbre en cuanto a la rentabilidad de la inversión.
+
+6. Limitaciones de recursos y tiempo: Los recursos financieros, humanos y de tiempo asignados al proyecto pueden ser limitados. Esto puede influir en la cantidad de subsectores que se pueden evaluar en profundidad y en la extensión de los análisis realizados.
+
+Es importante tener en cuenta estas limitaciones y manejarlas de manera adecuada durante la ejecución del proyecto. Se deben establecer estrategias de mitigación de riesgos y se debe tener flexibilidad para adaptarse a posibles cambios y desafíos que puedan surgir durante el proceso.
+
 + Barreras tecnológicas 
 + Todo área geográfica fuera de Estados Unidos
 
