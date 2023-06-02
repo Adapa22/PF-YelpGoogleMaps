@@ -115,25 +115,25 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Fuente de información: Yelp, Google Maps.
 
 ### Stack tecnológico
-Github: Alojamiento de nuestro repositorio.
-Notion: Organización de tareas.
-Visual Studio Code: Software para trabajar de forma local en el proyecto.
-Google Colab: Servicio de Google para trabajar de forma colaborativa y en la nube.
-Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
-Google Cloud Storage: Servicio Cloud de almacenamiento.
-Google Cloud Function: Servicio sin servidor para ejecutar código en respuesta a eventos.
-Google Cloud Scheduler: Servicio para programar tareas en la nube.
-Google Big Query: Servicio para hacer análisis de datos de gran escala en la nube.
-Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
-Places API: API de Google que permite acceder a información detallada sobre lugares y establecimientos
-Geocoding API: API de Google que permite convertir direcciones en coordenadas geográficas y viceversa.
-Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
-Python: Lenguaje de programación usado para ciencia de datos.
-Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
-Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
-Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
-Gradio: Libreria para construir interfaces de usuario de modelos de aprendizaje automático.
-Plotly: Libreria para visualización de datos interactiva y gráficos estadísticos.
++Github: Alojamiento de nuestro repositorio.
++Notion: Organización de tareas.
++Visual Studio Code: Software para trabajar de forma local en el proyecto.
++Google Colab: Servicio de Google para trabajar de forma colaborativa y en la nube.
++Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
++Google Cloud Storage: Servicio Cloud de almacenamiento.
++Google Cloud Function: Servicio sin servidor para ejecutar código en respuesta a eventos.
++Google Cloud Scheduler: Servicio para programar tareas en la nube.
++Google Big Query: Servicio para hacer análisis de datos de gran escala en la nube.
++Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
++Places API: API de Google que permite acceder a información detallada sobre lugares y establecimientos
++Geocoding API: API de Google que permite convertir direcciones en coordenadas geográficas y viceversa.
++Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
++Python: Lenguaje de programación usado para ciencia de datos.
++Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
++Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
++Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
++Gradio: Libreria para construir interfaces de usuario de modelos de aprendizaje automático.
++Plotly: Libreria para visualización de datos interactiva y gráficos estadísticos.
 
 ### Posibilidades de continuidad del proyecto:
 
