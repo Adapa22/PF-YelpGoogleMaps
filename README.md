@@ -214,7 +214,9 @@ Desarrollar un sistema de recomendación que recoge las reseñas hechas de un us
 ### Diagrama de Gantt
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
-
+<p align="center">
+  <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/gantt.PNG">
+</p>
 
 
 
