@@ -145,7 +145,7 @@ $$
 $$
 
 
-### Modelo ED
+### Modelo ER
 
 En este diagrama se puede apreciar las relaciones establecidas entre las tablas realizadas para nuestro data werehouse, de las cuales las mas importante es la tabla review.
 En la que se encuentra la conexion con todas las demas tablas, ecepto la de Gmap esta se usa como un apoyo para city de esta manera se obtiene con mas veracidad la ubicacion de
