@@ -114,12 +114,15 @@ Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferent
 $$
 \frac{Negocios por Rubro}{Total de Negocios} *100
 $$
-
 <br>
+
+  *Objetivo:* Mantener la tasa anual de crecimiento por rubro entre el 5% y 10% anual para evitar           burbujas y riesgos de inversión excesivos.
 
 + **Calidad percibida mensual del servicio por rubro (CPR)**:
 Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio por rubro de servicio
 
+*Objetivo:* Mantener la Calidad Percibida Mensual del Servicio por Rubro (CPR) por encima de las 4 estrellas.
+  
 + **Puntaje promedio mensual de acuerdo a categorías**: 
 Se obtiene tres métricas de importancia para el cliente y por medio de minería de texto se extraen palabras clave de las reseñas, por ejemplo, al cliente le interesa saber la puntuación de los criterios. Es útil para estudiar a detalle el rendimiento de un negocio y encontrar puntos fuertes y oportunidad de mejora.
 
@@ -130,12 +133,16 @@ Se obtiene tres métricas de importancia para el cliente y por medio de minería
 3. Valoración del local (Sight, place, street, seat, table, ambient, clean, dirty, filthy, beautiful, etc.)
 
 Una vez segmentadas las reseñas de acuerdo a los objetivos, se promedia el puntaje de las mismas para calificar estos aspectos del restaurante.
+  
+*Objetivo:* Mantener o aumentar el puntaje promedio mensual por encima de 4.5 en las categorías de atención, valoración de la comida y valoración del local.
 
 + **Impacto potencial promedio de los reviewers**:  
 Promedia el número de fans que tienen las personas que escribieron reseñas del negocio en Yelp. Es útil para establecer objetivos de marketing y el desarrollo de campañas de comunicación.
 
+*Objetivo:* Mantener el Impacto Potencial Promedio de los Reviewers por encima de 100.
+
 + **Tasa mensual de respuesta del negocio:**
- Calcula el porcentaje de reseñas que el restaurante respondió
+ Calcula el porcentaje de reseñas que el restaurante respondió.
  
  
 <br>
@@ -143,6 +150,11 @@ Promedia el número de fans que tienen las personas que escribieron reseñas del
 $$
 \frac{Cantidad de Respuestas}{Cantidad de Comentarios} *100
 $$
+
+<br>
+
+  
+*Objetivo:* Mantener la Tasa Mensual de Respuesta del Negocio por encima del 70%.
 
 
 ### Modelo ER
