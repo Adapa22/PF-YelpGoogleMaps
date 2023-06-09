@@ -57,7 +57,7 @@ def obtener_resenas_estado(estados_ciudades, google_api_key):
     return json.dumps(reviews_data)
 
 # Obtener datos de la API de Google
-google_api_key = "AIzaSyDlTHO19VPc5BZF5Z2ZC5mJQvdWZTEzdKg"
+google_api_key = "Key-Google"
 estados_ciudades = {
     'New York': ['New York City', 'Buffalo', 'Rochester'],
     'California': ['Los Angeles', 'San Francisco', 'San Diego'],
