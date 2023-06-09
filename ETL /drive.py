@@ -8,16 +8,15 @@ from googleapiclient.errors import HttpError
 import time 
 
 # Ruta al archivo de credenciales de servicio de Google Cloud Storage
-storage_credentials_path = r"C:\Users\PERSONAL\OneDrive\Escritorio\Cursos Programacion\Data Science\Proyecto Final\fine-sublime-388323-424993ffc211.json"
-
+storage_credentials_path = 'credencial GCS'
 # Bucket de Google Cloud Storage al que se cargan los datos
-bucket_name = "yelp-goog-proyecto"
+bucket_name = "NOMBRE-DEL-BUCKET"
 
 # Crear el cliente de Google Cloud Storage
 storage_client = storage.Client.from_service_account_json(storage_credentials_path)
 
 # Ruta al archivo de credenciales de servicio de Google Drive
-credenciales = R"C:\Users\PERSONAL\OneDrive\Escritorio\Cursos Programacion\Data Science\Proyecto Final\fine-sublime-388323-cbbfe9d678a0.json" 
+credenciales = Credencial Drive' 
 creden = service_account.Credentials.from_service_account_file(credenciales)
 drive_service = build('drive', 'v3', credentials=creden)
 
