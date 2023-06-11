@@ -160,10 +160,9 @@ $$
 ### Modelo ER
 
 En este diagrama se puede apreciar las relaciones establecidas entre las tablas realizadas para nuestro data werehouse, de las cuales las mas importante es la tabla review.
-En la que se encuentra la conexion con todas las demas tablas, ecepto la de Gmap esta se usa como un apoyo para city de esta manera se obtiene con mas veracidad la ubicacion de
-los lugares que los clientes evaluaron.
+En la que se encuentra las conexiones con las tablas de dimension que son: User, Date, Rating, Restaurant y City, hay una ultima tabla llamada Gmap la cual esta conectada a city. Esta configuracion del diagrama Entidad Relación nos indica que es de tipo copo de nieve. esto nos permite tener una mayor exactitud sobre la posición de los restarurantes evaluados por los clientes, lo que nos otorga una mejor data para tomar decisiones hacerca de donde abrir los posible negocios. 
 
-<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/_ED_.png">
+<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/ED_.png">
 
 
 <br>
