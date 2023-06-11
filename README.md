@@ -163,7 +163,7 @@ En este diagrama se puede apreciar las relaciones establecidas entre las tablas 
 En la que se encuentra la conexion con todas las demas tablas, ecepto la de Gmap esta se usa como un apoyo para city de esta manera se obtiene con mas veracidad la ubicacion de
 los lugares que los clientes evaluaron.
 
-<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/ED.png">
+<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/_ED_.png">
 
 
 <br>
