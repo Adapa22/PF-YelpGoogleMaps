@@ -3,8 +3,7 @@
 Con la intenciond de enriquecer los datos utilizados para el proyecto; extraemos archivos provenientes de Yelp y Places API.
 <br>
 <br>
-![DATALAKE (1)](https://github.com/Adapa22/PF-YelpGoogleMaps/assets/114951953/3cb3e008-c037-4f77-ae6a-755b1f313f62)
-
+![DATALAKE (1)](https://i.ibb.co/tZzH9MB/api.png)
 
 ### Extraccion de las API's
 
