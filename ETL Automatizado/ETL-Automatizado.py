@@ -2,23 +2,25 @@ from google.cloud import storage, bigquery
 import pandas as pd
 import base64
 import csv
+from textblob import TextBlob
 
 def process_data(event, context):
     # Configuración de Cloud Storage
-    bucket_name = 'bucket_name'
-    file_name = 'file_name'
+    bucket_name = 'bucket_datacket'
+    file_name = 'reviews_gm_all.json'
 
     # Configuración de BigQuery
-    project_id = 'fine-sublime-388323'
-    dataset_id = 'etl_prueba'
-    table_id = 'tb_etl'
+    project_id = 'proyectogrupal'
+    dataset_id = 'dataset_gm'
+    table_id = 'tb_gm'
 
     # Configuración de columnas (renombrar y eliminar)
     column_mapping = {
         'author_name': 'user_name',
-        'text': 'reviews'
+        'text': 'reviews',
+        'time': 'date'
     }
-    columns_to_drop = ['author_url', 'profile_photo_url']
+    columns_to_drop = ['author_url', 'profile_photo_url', 'language', 'original_language', 'profile_photo_url', 'relative_time_description', 'translated']
 
     # Inicializar clientes de Cloud Storage y BigQuery
     storage_client = storage.Client()
@@ -38,6 +40,25 @@ def process_data(event, context):
     # Eliminar columnas
     df = df.drop(columns=columns_to_drop)
 
+    # Eliminar filas con valores nulos
+    df = df.dropna()
+
+    # Combinar múltiples categorías en una sola cadena
+    df['category'] = df['category'].apply(lambda x: ' '.join(x))
+
+    # Eliminar duplicados
+    df = df.drop_duplicates()
+    
+    # Reemplazar los valores nulos de 'price_level' con la mediana calculada de esa misma columna
+    median_price_level = df['price_level'].median()
+    df['price_level'].fillna(median_price_level, inplace=True)
+    
+    # Validar el sentimiento del texto en la columna 'reviews' y asignar etiquetas
+    df['sentiment'] = df['reviews'].apply(lambda x: 'positive' if TextBlob(x).sentiment.polarity > 0 else 'negative' if TextBlob(x).sentiment.polarity < 0 else 'neutral')
+
+    # Convertir el formato de fecha timestamp a fecha normal
+    df['date'] = pd.to_datetime(df['date'], unit='s')
+    
     # Guardar el DataFrame como un archivo CSV temporal
     temp_csv_file = '/tmp/temp_data.csv'
     df.to_csv(temp_csv_file, index=False, quoting=csv.QUOTE_NONNUMERIC, escapechar='\\')
@@ -76,3 +97,4 @@ if __name__ == "__main__":
     }
     context = 'context'
     hello_pubsub(event, context)
+
