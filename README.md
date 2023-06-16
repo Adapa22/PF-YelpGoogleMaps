@@ -106,60 +106,49 @@ Utilizamos Scrum como metodología de trabajo para trabajar de manera más efici
  
 ### KPIs
 
-+ **Tasa anual de crecimiento por rubro:**:
-Mide el crecimiento o decrecimiento de la cantidad de negocios ente los diferentes rubros del mercado. Es útil para obtener tendencias y proyecciones de mercado.
+1.  **Puntaje promedio por categoría:**
+Mide la calidad percibida por los usuarios de las diferentes categorías por restaurante. Ej.: Comida rápida, comida vegetariana, comida coreana, comida marina. Se calcula segmentando los restaurantes por categorías y promediando el puntaje (de 1 a 5 estrellas) por cada categoría. Se puede calcular por ciudad o por localidad. Es útil para medir las preferencias y calidad del servicio que se ofrece en cada zona geográfica según el tipo del restaurante.
 
-<br>
+  *Objetivo:* Mantener el puntaje de la categoría en la que se va a invertir siempre entre 4 y 5 estrellas mensualmente.
 
-$$
-\frac{Negocios por Rubro}{Total de Negocios} *100
-$$
-<br>
+2. **Cantidad de reseñas por restaurante:**
+Con esto se busca medir la interacción en el restaurante (o restaurantes, si tiene varias sucursales). Suma el total de reseñas que se obtuvieron en plataformas sociales. Un aumento constante refleja el crecimiento de la relevancia y popularidad del negocio.
 
-  *Objetivo:* Mantener la tasa anual de crecimiento por rubro entre el 5% y 10% anual para evitar           burbujas y riesgos de inversión excesivos.
-
-+ **Calidad percibida mensual del servicio por rubro (CPR)**:
-Es útil para medir la calidad percibida por los clientes. Se obtiene calculando el puntaje promedio por rubro de servicio
-
-*Objetivo:* Mantener la Calidad Percibida Mensual del Servicio por Rubro (CPR) por encima de las 4 estrellas.
+  *Objetivo:* Elevar la cantidad de reseñas por restaurante por lo menos un 15% anualmente.
   
-+ **Puntaje promedio mensual de acuerdo a categorías**: 
+3. **Puntaje promedio mensual de acuerdo a categorías:**
 Se obtiene tres métricas de importancia para el cliente y por medio de minería de texto se extraen palabras clave de las reseñas, por ejemplo, al cliente le interesa saber la puntuación de los criterios. Es útil para estudiar a detalle el rendimiento de un negocio y encontrar puntos fuertes y oportunidad de mejora.
 
-1. Atención (attention, service, fast, waitress, waiter, gentle, help, nice, person, etc.)
+  + Atención (attention, service, fast, waitress, waiter, gentle, help, nice, person, etc.)
 
-2. Valoración de la comida (beef, chicken, burger, delicious, superb, food, tasty, taste, flavour, meat, hamburger, yummy, etc.)
+  + Valoración de la comida (beef, chicken, burger, delicious, superb, food, tasty, taste, flavour, meat, hamburger, yummy, etc.)
 
-3. Valoración del local (Sight, place, street, seat, table, ambient, clean, dirty, filthy, beautiful, etc.)
+  + Valoración del local (Sight, place, street, seat, table, ambient, clean, dirty, filthy, beautiful, etc.)
 
 Una vez segmentadas las reseñas de acuerdo a los objetivos, se promedia el puntaje de las mismas para calificar estos aspectos del restaurante.
   
-*Objetivo:* Mantener o aumentar el puntaje promedio mensual por encima de 4.5 en las categorías de atención, valoración de la comida y valoración del local.
+  *Objetivo:* Mantener o aumentar el puntaje promedio mensual por encima de 4.5 en las categorías de atención, valoración de la comida y valoración del local.
 
-+ **Impacto potencial promedio de los reviewers**:  
+4. **Impacto potencial promedio de los reviewers:**
 Promedia el número de fans que tienen las personas que escribieron reseñas del negocio en Yelp. Es útil para establecer objetivos de marketing y el desarrollo de campañas de comunicación.
 
 *Objetivo:* Mantener el Impacto Potencial Promedio de los Reviewers por encima de 100.
 
-+ **Tasa mensual de respuesta del negocio:**
- Calcula el porcentaje de reseñas que el restaurante respondió.
- 
- 
-<br>
-
-$$
-\frac{Cantidad de Respuestas}{Cantidad de Comentarios} *100
-$$
-
-<br>
-
+5. **Sentimiento por estado y tipo de restaurante:**
+ Esto permite conocer la aceptación del público que tienen los diferentes tipos de restaurantes en cada estado. Esto puede resultar útil para segmentar de manera más precisa campañas de marketing o como un parámetro útil para decidir invertir en determinado tipo de restaurante en cada estado.
   
-*Objetivo:* Mantener la Tasa Mensual de Respuesta del Negocio por encima del 70%.
+  *Objetivo:* Mantener el sentimiento positivo de la categoría del negocio o del estado a invertir por encima del 70% anualmente..
 
+6. **Tasa mensual de satisfacción de los reviewers:**
+Calcula el porcentaje de calificaciones positivas (4 o 5 estrellas) del total de puntuaciones que el restaurante recibió. Es útil para medir la reputación del negocio y establecer objetivos de mejora para el futuro.
+
+  $$ (CantidadDeCalificaciones/CantidadDeCalificacionesPositivas)*100 $$
+  
+  *Objetivo:* Mantener la Tasa Mensual de Satisfacción de los Reviewers siempre por sobre el 85%.
 
 ### Modelo ER
 
-En este diagrama se puede apreciar las relaciones establecidas entre las tablas realizadas para nuestro data werehouse, de las cuales las mas importante es la tabla review.
+En este diagrama se puede apreciar las relaciones establecidas entre las tablas realizadas para nuestro data warehouse, de las cuales las mas importante es la tabla review.
 En la que se encuentra las conexiones con las tablas de dimension que son: User, Date, Rating, Restaurant y City, hay una ultima tabla llamada Gmap la cual esta conectada a city. Esta configuracion del diagrama Entidad Relación nos indica que es de tipo copo de nieve. esto nos permite tener una mayor exactitud sobre la posición de los restarurantes evaluados por los clientes, lo que nos otorga una mejor data para tomar decisiones hacerca de donde abrir los posible negocios. 
 
 <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/ED_.png">
