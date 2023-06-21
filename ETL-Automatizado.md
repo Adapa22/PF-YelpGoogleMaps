@@ -80,7 +80,7 @@ En nuestro Data Warehouse almacenamos los datos estructurados de manera eficient
 </p>
 
 ## Visión General
-El proceso de Automatización de pipelines a Data Warehouse se da en un entorno de producción, se ejecuta periódicamente según un cronograma o como respuesta a eventos específicos, para garantizar que los datos se actualicen y estén disponibles en el data warehouse de manera automatizada y confiable.
+El proceso de Automatización de pipelines ETL a Data Warehouse se da en un entorno de producción, se ejecuta periódicamente según un cronograma o como respuesta a eventos específicos, para garantizar que los datos se actualicen y estén disponibles en el Data Warehouse de manera automatizada y confiable.
 
 La automatización del pipelines de datos nos permite ahorrar tiempo y recursos al eliminar la necesidad de realizar estos procesos manualmente. Además, nos brinda la capacidad de mantener un flujo constante de datos hacia el Data Warehouse, lo que facilita la toma de decisiones basada en información actualizada y precisa.
 
