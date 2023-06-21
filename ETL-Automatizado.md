@@ -1,5 +1,5 @@
 
-## AUTOMATIZACIÓN DE PIPELINES A DATA WAREHOUSE
+## AUTOMATIZACIÓN DE PIPELINES ETL A DATA WAREHOUSE
 
 <p align="center">
   <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/etl3.PNG">
