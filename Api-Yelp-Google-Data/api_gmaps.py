@@ -67,11 +67,11 @@ def obtener_resenas_estado(estados_ciudades, google_api_key):
                             elif estado == 'New York':
                                 review['state'] = 'NY'
                             elif estado == 'Hawaii':
-                                review['state'] = 'HA'
+                                review['state'] = 'HI'
                             elif estado == 'Florida':
                                 review['state'] = 'FL'
                             elif estado == 'Nevada':
-                                review['state'] = 'NE'
+                                review['state'] = 'NV'
 
                             reviews_data.append(review)
     
