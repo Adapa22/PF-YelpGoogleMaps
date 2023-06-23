@@ -98,6 +98,7 @@ Mediante la automatización de los pipelines de extracción de datos hacia nuest
 + Cloud Scheduler
 + Python
 + Docker
++ Dockerfile
 
 
 
