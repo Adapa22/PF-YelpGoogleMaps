@@ -11,9 +11,6 @@
   <summary>Tabla de contenido: </summary>
   <ol>
     <li>
-      <a href="#Disponibilidad-de-API">Disponibilidad de API</a>
-    </li>
-    <li>
       <a href="#Proceso-de-Extracción-Automatizado">Proceso de Extracción Automatizado</a>
       <ul>
         <li><a href="#API">API</a></li>
@@ -24,7 +21,7 @@
       </ul> 
     </li>
     <li>
-      <a href="#Vision-General">Visión General</a>
+      <a href="#Visión-General">Visión General</a>
     </li>
     <li>
       <a href="#Stack-Tecnológico">Stack Tecnológico</a>
@@ -32,6 +29,7 @@
   </ol>
 </details>
 
+## Proceso de Extracción Automatizado
 ## API 
 La API de Google Maps como la plataforma Yelp ofrecen a los dueños e inversionistas de restaurantes información valiosa a través de las reseñas de usuarios y otros datos relevantes. Estas reseñas ayudan a los dueños de restaurantes a mejorar la visibilidad e imagen de su negocio, tomar decisiones informadas basadas en las experiencias de los clientes, recibir retroalimentación para realizar mejoras continuas y realizar análisis competitivos para destacar en el mercado. En resumen, aprovechar las reseñas de usuarios y los datos proporcionados por estas plataformas beneficia a los dueños e inversionistas de restaurantes al impulsar la calidad del servicio, atraer a más clientes y lograr el éxito en el mercado gastronómico.
 
