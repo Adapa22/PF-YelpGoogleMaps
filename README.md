@@ -148,10 +148,7 @@ Calcula el porcentaje de calificaciones positivas (4 o 5 estrellas) del total de
 
 ### Modelo ER
 
-En este diagrama se puede apreciar las relaciones establecidas entre las tablas realizadas para nuestro data warehouse, de las cuales las mas importante es la tabla review.
-En la que se encuentra las conexiones con las tablas de dimension que son: User, Date, Rating, Restaurant y City, hay una ultima tabla llamada Gmap la cual esta conectada a city. Esta configuracion del diagrama Entidad Relación nos indica que es de tipo copo de nieve. esto nos permite tener una mayor exactitud sobre la posición de los restarurantes evaluados por los clientes, lo que nos otorga una mejor data para tomar decisiones hacerca de donde abrir los posible negocios. 
-
-<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/ED_.png">
+<img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/DER.png">
 
 
 <br>
@@ -183,7 +180,6 @@ En general, el alcance del proyecto es ayudar al grupo inversor a identificar el
 + Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
 + Places API: API de Google que permite acceder a información detallada sobre lugares y establecimientos
 + Geocoding API: API de Google que permite convertir direcciones en coordenadas geográficas y viceversa.
-+ Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
 + Python: Lenguaje de programación usado para ciencia de datos.
 + Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
 + Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
@@ -225,7 +221,7 @@ Desarrollar un sistema de recomendación que recoge las reseñas hechas de un us
 Se emplea el uso del Diagrama de Gantt como herramienta que nos permite visualizar las actividades de progreso del proyecto y ajustar el plan según sea necesario.
 
 <p align="center">
-  <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/gantt.PNG">
+  <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/dgantt.PNG">
 </p>
 
 
